@@ -1,0 +1,5 @@
+Name,Email,Segment,LastPurchaseMonthsAgo
+Amit,amit@example.com,New,0
+Neha,neha@example.com,Returning,2
+Rohan,rohan@example.com,Loyal,1
+Simran,simran@example.com,Inactive,9
